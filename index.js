@@ -1,3 +1,3 @@
-import last from "./src/index.js"
+import last from './src/index.js'
 
-console.log(last(["one", "two"]));
+console.log(last(['one', 'two']))
