@@ -6,3 +6,5 @@ lint-fix: ## исправление ошибок линтинга
 	npx eslint --fix .
 test: ## запуск тестов
 	node tests/set.test.js
+say-hello:
+	@echo "Hello, World!"
